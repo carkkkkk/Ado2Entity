@@ -47,11 +47,11 @@ public List<TEntity> Get()
 }
 ```
 
-License
+Licença
 ----
 
 MIT
 
 
-**Free Software, Hell Yeah!**
+**Free Software, Yes!**
 
