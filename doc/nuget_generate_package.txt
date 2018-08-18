@@ -1,2 +1,5 @@
 #Executar na pasta onde esta localizado o .nuspec e .csproj
 nuget pack -OutputDirectory "C:\Users\FELIPE\Documents\publish_packages"
+
+#Executar na pasta do pacote.
+nuget push <pacote> -Source https://www.nuget.org/

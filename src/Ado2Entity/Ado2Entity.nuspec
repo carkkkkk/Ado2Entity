@@ -8,7 +8,7 @@
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>$description$</description>
-    <releaseNotes>Versão 1.0.0.0</releaseNotes>
+    <releaseNotes>Para maior compatibilidade com a .Net Framework estã versão trabalha na versão 3.5</releaseNotes>
     <copyright>Copyright 2018</copyright>
     <tags>ADO .Net Entity Entities</tags>
   </metadata>
