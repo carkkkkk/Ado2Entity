@@ -2,4 +2,7 @@
 nuget pack -OutputDirectory "C:\Users\FELIPE\Documents\publish_packages"
 
 #Executar na pasta do pacote.
-nuget push <pacote> -Source https://www.nuget.org/
+nuget push Ado2Entity.1.0.0.nupkg -Source https://www.nuget.org/
+
+#Obter a chave da api no site do nuget
+nuget setApiKey <api key> -Source https://www.nuget.org/
