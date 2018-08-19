@@ -7,6 +7,7 @@
     <authors>$author$</authors>
     <owners>$author$</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <projectUrl>https://github.com/carkkkkk/Ado2Entity</projectUrl>
     <description>$description$</description>
     <releaseNotes>Para maior compatibilidade com a .Net Framework estã versão trabalha na versão 3.5</releaseNotes>
     <copyright>Copyright 2018</copyright>
