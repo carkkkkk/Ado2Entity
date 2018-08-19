@@ -23,7 +23,7 @@ PM> Install-Package Ado2Entity
 ```sh
 <connectionStrings>
     <add name="[nome da chave]" connectionString="Server=[servidor];Database=[banco de dados];Uid=[usuario do banco];Pwd=[senha];" providerName="[provedor de banco de dados]"/>
-  </connectionStrings>
+</connectionStrings>
 ```
 ```sh
 public List<TEntity> Get()
